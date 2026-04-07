@@ -1,7 +1,7 @@
 # books
-Best C/C++ programming and Bash scripting books!
+## Best C/C++ programming and Bash scripting books!
 
-
+# The C Programming Language 1988
 1. Mutloq klassika (O'tgan yillarning eng yaxshisi)
 "The C Programming Language" — Brian Kernighan va Dennis Ritchie
 Bu kitob dasturlash olamida shunchaki qo'llanma emas, balki "Injil" hisoblanadi. Dennis Ritchie — C tilining asoschisi.
