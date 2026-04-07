@@ -22,7 +22,7 @@ Professional darajaga chiqish uchun
 Agar siz C tilining zamonaviy imkoniyatlaridan (C11, C17 standartlari) foydalanib, eng yuqori darajadagi xavfsiz va tezkor kod yozmoqchi bo'lsangiz, bu kitob siz uchun.
 Nima uchun o'qish kerak? Bu kitob o'quvchini bosqichma-bosqich "darajalar"ga (levels) bo'lib o'rgatadi: Tanishish, Tajriba, va Mutaxassislik.
 
-# Effective C 
+# Effective C: An Introduction to Professional C Programming 
 Xavfsizlik va chuqur bilim uchun
 "Effective C: An Introduction to Professional C Programming" — Robert C. Seacord
 Zamonaviy dasturlashda xavfsizlik (security) birinchi o'rinda. Bu kitob sizga professional darajada qanday qilib xatolarsiz va kiberhujumlarga chidamli kod yozishni o'rgatadi.
