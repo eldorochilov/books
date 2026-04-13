@@ -1,5 +1,6 @@
 # ⭐ The Best Books
 #### C/C++ programming & Bash scripting.
+![Google rasm](https://example.com/rasm.png)
 
 ## 📘 The C Programming Language 1988
 Mutloq klassika (O'tgan yillarning eng yaxshisi)
